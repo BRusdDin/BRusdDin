@@ -1,14 +1,12 @@
-## Hi there 👋
-
-<!--
-**BRusdDin/BRusdDin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-⚡ Fun fact: ...
 -->
-ketika ada
 
+✨ _BRusdDin_ ✨
+.
+Hi there 👋
+.
 🔭 I’m currently working on BASE
 .
-🌱 I’m currently learning BASE
+🌱 I’m currently BASE-ing
 .
 💬 Ask me about BASE 
 .
@@ -17,3 +15,4 @@ ketika ada
 😄 Pronouns: BASE = B - E - S - T
 .
 ⚡ Fun fact: BASE is BEST
+.
