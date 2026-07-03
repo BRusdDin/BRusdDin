@@ -14,7 +14,7 @@ ketika ada
 
 🔭 I’m currently working on BASE
 .
-🌱 I’m currently learning ...
+🌱 I’m currently learning BASE
 .
 💬 Ask me about ... 
 .
