@@ -16,6 +16,6 @@ ketika ada
 .
 🌱 I’m currently learning BASE
 .
-💬 Ask me about ... 
+💬 Ask me about BASE 
 .
 📫 How to reach me: ...
